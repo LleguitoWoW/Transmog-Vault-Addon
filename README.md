@@ -205,3 +205,7 @@ a `TransmogVault.lua` en esa misma carpeta. Se importan solos la primera vez.
 ## Créditos
 
 Basado en DressMe (GetLocalPlayer) y TransmogTip (ZhengPeiRu21). Reescrito por Lleguito.
+
+<img width="2601" height="1457" alt="1" src="https://github.com/user-attachments/assets/e2b2cfc8-14cd-47a2-8b55-33851c31a347" />
+
+
