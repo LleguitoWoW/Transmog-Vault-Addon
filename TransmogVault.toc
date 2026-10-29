@@ -1,0 +1,32 @@
+## Interface: 30300
+## Title: Transmog Vault
+## Notes: Appearance collection album for WotLK 3.3.5 private servers (AzerothCore).
+## Notes-esES: Álbum de colección de apariencias para servidores privados WotLK 3.3.5 (AzerothCore).
+## Notes-esMX: Álbum de colección de apariencias para servidores privados WotLK 3.3.5 (AzerothCore).
+## Author: Lleguito
+## Version: 2.1.5
+## X-Credits: Based on DressMe by GetLocalPlayer and TransmogTip by ZhengPeiRu21
+## SavedVariables: TransmogVaultDB, TransmogACSavedLooks, TransmogTipDB
+
+db\UnlockedAppearances.lua
+db\Items.lua
+db\Companions.lua
+db\PreviewSetup.lua
+
+Core.lua
+Locale.lua
+Query.lua
+Unlocks.lua
+Data.lua
+Tooltip.lua
+
+UI\Widgets.lua
+UI\Model.lua
+UI\Grid.lua
+UI\Dialogs.lua
+UI\Main.lua
+UI\Collection.lua
+UI\Looks.lua
+UI\Companions.lua
+UI\Settings.lua
+UI\Minimap.lua
